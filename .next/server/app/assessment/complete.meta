@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/assessment/layout,_N_T_/assessment/complete/layout,_N_T_/assessment/complete/page,_N_T_/assessment/complete"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/assessment/complete/__PAGE__",
+    "/assessment/complete",
+    "/assessment",
+    "/_index",
+    "/_head"
+  ]
+}
